@@ -1,0 +1,4 @@
+interface:
+  display_name: "Xiaohongshu Post Assistant"
+  short_description: "Create and prepare Xiaohongshu image posts."
+  default_prompt: "帮我生成并准备一篇小红书图文草稿："
